@@ -1,11 +1,11 @@
 # 🪙 Crypto Sentiment Analysis & Price Prediction
 
 > **BITS Pilani, Goa — ML for EE Course Project**
-> Submitted By : Rushil Shah 2022B3A31189G
-                 Krishna Lahoti 2022B3A30044G
-                 Ansh Dixit 2022
 > Can Twitter sentiment predict BTC and ETH price movements?  
 > Full pipeline: **3.7M tweets → FinBERT + VADER → LSTM + Random Forest**
+> Submitted By : Rushil Shah 2022B3A31189G
+                 Krishna Lahoti 2022B3A30044G
+                 Ansh Dixit 2022B2A81502G
 
 🔗 **GitHub:** https://github.com/AssassinGod179/crypto_Sentiment_Analysis123
 
