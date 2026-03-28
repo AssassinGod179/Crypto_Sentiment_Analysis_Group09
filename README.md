@@ -1,6 +1,7 @@
 # 🪙 Crypto Sentiment Analysis & Price Prediction
 
-> **BITS Pilani, Goa — ML for EE Course Project**
+> **ML for EE Course Project**
+> 
 > Can Twitter sentiment predict BTC and ETH price movements?  
 > Full pipeline: **3.7M tweets → FinBERT + VADER → LSTM + Random Forest**
 > 
