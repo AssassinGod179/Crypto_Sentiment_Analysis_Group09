@@ -284,7 +284,6 @@ crypto_Sentiment_Analysis123/
 │
 ├── README.md                          ← This file
 ├── crypto_ml_pipeline.py              ← Main pipeline (run this first)
-├── reviewer_notebook.ipynb            ← Jupyter notebook for viewing all results
 ├── requirements_ml.txt                ← Python dependencies
 │
 ├── BTC-USD__2014-2024_.csv            ← BTC price data (Yahoo Finance)
@@ -356,11 +355,6 @@ python crypto_ml_pipeline.py
 | Step 7 | Random Forest | ~1 min |
 | Step 8 | Summary + plots (04–07) | ~5 sec |
 
-### 5. View Results in Jupyter
-
-```bash
-jupyter notebook reviewer_notebook.ipynb
-```
 
 Run all cells top-to-bottom to see every plot and table inline.
 
